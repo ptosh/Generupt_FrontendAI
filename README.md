@@ -1,0 +1,1 @@
+# Generupt_FrontendAI
