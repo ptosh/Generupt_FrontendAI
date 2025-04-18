@@ -1,7 +1,14 @@
-{
+'/workspaces/Generupt_FrontendAI/README.md'{
   "name": "generupt-frontend-ai",
   "version": "1.0.0",
+  "scripts":{
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
+ {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
